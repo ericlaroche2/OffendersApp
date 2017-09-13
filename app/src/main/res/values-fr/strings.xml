@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rechercher des délinquants</string>
+    <string name="edit_message">SED ou OID</string>
+    <string name="button_search">Rechercher</string>
+    <string name="text2">Prénom</string>
+    <string name="text3">Nom de famille</string>
+    <string name="text4">Date de naissance</string>
+    <string-array name="location">
+        <item>ABCD</item>
+        <item>EFG</item>
+        <item>hIJ</item>
+        <item>KLM</item>
+        <item>NOP</item>
+        <item>QRS</item>
+    </string-array>
+    <string-array name="Reason">
+        <item>LIBÉRATION/MISE EN LIBERTÉ</item>
+        <item>PSAE</item>
+        <item>TRANSFEREMENT</item>
+        <item>PE</item>
+        <item>IEL</item>
+        <item>DÉCÉDÉ</item>
+        <item>PSSE</item>
+        <item>PSG</item>
+        <item>C EXT</item>
+        <item>SL - Out</item>
+        <item>AUTRE</item>
+    </string-array>
+    <string name="reasontitle">*Raison</string>
+    <string name="commentstitle">Commentaires:</string>
+    <string name="save">Sauvegarder</string>
+    <string name="in_out_of_institution">Entrée/Sortie de l\'emplacement</string>
+    <string name="change_location_to">Changer l\'endroit actuel:</string>
+    <string-array name="direction">
+        <item>En sortant</item>
+        <item>En entrant </item>
+    </string-array>
+    <string name="loading">Chargement...</string>
+    <string name="noId">Ajouter un individu</string>
+    <string name="fps_number_or_oid">SED</string>
+    <string name="change_multiple">Modifier plusieurs</string>
+    <string name="fullname">Nom</string>
+    <string name="only_offenders_in_federal_training_centre_multi_6099">Seulement les délinquants dans Centre Fédéral de Formation (6099)</string>
+
+</resources>

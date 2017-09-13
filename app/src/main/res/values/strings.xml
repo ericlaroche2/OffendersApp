@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Find Offenders</string>
+    <string name="edit_message">FPS Number\n or OID</string>
+    <string name="button_search">Search</string>
+    <string name="text2">First Name</string>
+    <string name="text3">Surname</string>
+    <string name="text4">Birth Date</string>
+    <string name="hello">Hello World, CreateTable!</string>
+    <string-array name="location">
+        <item>ABCD</item>
+        <item>EFG</item>
+        <item>hIJ</item>
+        <item>KLM</item>
+        <item>NOP</item>
+        <item>QRS</item>
+    </string-array>
+    <string-array name="scan_tone_array">
+        <item>NONE (Silent Mode)</item>
+        <item>Adara.ogg</item>
+        <item>Antimony.ogg</item>
+        <item>Xenon.ogg</item>
+        <item>Vega.ogg</item>
+        <item>decode-short.wav</item>
+        <item>decode.wav</item>
+    </string-array>
+    <string-array name="direction">
+    <item>Exiting</item>
+    <item>Entering</item>
+</string-array>
+    <string-array name="Reason">
+        <item>DISCHARGE/RELEASE</item>
+        <item>ETA</item>
+        <item>TRANSFER</item>
+        <item>WR</item>
+        <item>UAL</item>
+        <item>DECEASED</item>
+        <item>UTA</item>
+        <item>ETA-G</item>
+        <item>E Court</item>
+        <item>Semi-liberté Out</item>
+        <item>OTHER</item>
+    </string-array>
+    <!--scanning screen -->
+    <string name="noId">Add an individual</string>
+    <string name="reasontitle">*Reason</string>
+    <string name="commentstitle">Comments:</string>
+    <string name="save">Save</string>
+    <string name="in_out_of_institution">In/Out of Institution</string>
+    <string name="change_location_to">Change location to:</string>
+    <string name="fps_number_or_oid">FPS Number or OID</string>
+    <string name="change_multiple">Change multiple</string>
+    <string name="fullname">FullName</string>
+    <string name="loading">Loading...</string>
+    <string name="only_offenders_in_federal_training_centre_multi_6099">Only Offenders in Federal Training Centre(Multi) 6099</string>
+
+</resources>
